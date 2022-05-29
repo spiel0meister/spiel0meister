@@ -1,6 +1,31 @@
-- 👋 Hi, I’m @spiel0meister
+# HELLO
 
-<!---
-spiel0meister/spiel0meister is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## ABOUT ME
+
+Hello, my name is **@spiel_meister** and I'm a programmer!
+
+### LINKS
+
+-   [YouTube](https://www.youtube.com/channel/UCXCtUJK50_OYMdcY6vM1-CQ)
+-   [Twitter](https://twitter.com/SovicZan)
+
+## WORK
+
+I've programed the following in Javascript:
+
+-   [Snake](https://hardcore-leavitt-c4df23.netlify.app)
+-   [Minesweeper](https://melodious-daffodil-d028f7.netlify.app) *(p5.js)
+-   [Wordle](https://zingy-madeleine-a33558.netlify.app/) *(p5.js)
+
+## LANGUAGES
+
+-   C++
+-   C#
+-   Javascript/Typescript (most worked with)
+-   Python
+-   SQL
+
+
+
+
+*To p5.js click [Here](https://p5js.org/).
