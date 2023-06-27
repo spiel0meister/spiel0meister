@@ -26,4 +26,4 @@ I've programed the following in Javascript:
 
 
 
-[^1]: To p5.js click [Here](https://p5js.org/).
+[^1]: To p5.js click [here](https://p5js.org/).
