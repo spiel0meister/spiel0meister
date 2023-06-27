@@ -14,8 +14,8 @@ Hello, my name is **@spiel_meister** and I'm a programmer!
 I've programed the following in Javascript:
 
 -   [Snake](https://hardcore-leavitt-c4df23.netlify.app)
--   [Minesweeper](https://melodious-daffodil-d028f7.netlify.app) p5.js[^1]
--   [Wordle](https://zingy-madeleine-a33558.netlify.app/) p5.js[^1]
+-   [Minesweeper](https://melodious-daffodil-d028f7.netlify.app) (p5.js)[^1]
+-   [Wordle](https://zingy-madeleine-a33558.netlify.app/) (p5.js)[^1]
 
 ## LANGUAGES
 
