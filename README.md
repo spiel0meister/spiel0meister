@@ -20,8 +20,9 @@ I've programed the following in Javascript:
 ## LANGUAGES
 
 -   C#
--   Javascript/Typescript (most worked with)
--   Python
+-   Javascript/Typescript
+-   Python (most experience)
+-   Rust (some experience, to be improved)
 
 
 
