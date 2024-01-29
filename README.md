@@ -7,7 +7,7 @@ Hello, my name is **@spiel0meister** and I'm a programmer!
 ### LINKS
 
 -   [YouTube](https://www.youtube.com/channel/UCXCtUJK50_OYMdcY6vM1-CQ)
--   [Twitter](https://twitter.com/SovicZan)
+-   [Twitter](https://twitter.com/spiel__meister)
 
 ## WORK
 
