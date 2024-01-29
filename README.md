@@ -2,7 +2,7 @@
 
 ## ABOUT ME
 
-Hello, my name is **@spiel_meister** and I'm a programmer!
+Hello, my name is **@spiel0meister** and I'm a programmer!
 
 ### LINKS
 
@@ -22,7 +22,7 @@ I've programed the following in Javascript:
 -   C#
 -   Javascript/Typescript
 -   Python (most experience)
--   Rust (some experience, to be improved)
+-   Rust (most experience)
 
 
 
