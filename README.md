@@ -19,12 +19,9 @@ I've programed the following in Javascript:
 
 ## LANGUAGES
 
--   C#
+-   C, C++, C#
 -   Javascript/Typescript
--   Python (most experience)
--   Rust (most experience)
-
-
-
+-   Python
+-   Rust
 
 [^1]: To p5.js click [here](https://p5js.org/).
