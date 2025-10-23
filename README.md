@@ -6,6 +6,8 @@ Hello, my name is **@spiel0meister** and I'm a programmer!
 
 ### LINKS
 
+Most of my projects are actually on [codeberg](https://codeberg.org/spiel_meister).
+
 -   [YouTube](https://www.youtube.com/channel/UCXCtUJK50_OYMdcY6vM1-CQ)
 -   [Twitter](https://twitter.com/spiel__meister)
 
